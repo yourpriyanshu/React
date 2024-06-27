@@ -21,6 +21,9 @@
   margin-top: 50px;
   margin-left: 10%;
 }
-.Welcome-message{
-  margin: 100px 0px;
+.welcome-message{
+  margin: 100px 0;
+}
+.spinner{
+  margin : 10% 0;
 }
